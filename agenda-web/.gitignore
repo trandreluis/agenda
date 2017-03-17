@@ -1,1 +1,8 @@
+# Pasta de build
 /build/
+
+
+# Arquivos de configurações locais
+.settings/
+.classpath
+.project
